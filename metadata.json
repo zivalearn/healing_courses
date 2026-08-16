@@ -1,0 +1,6 @@
+{
+  "name": "Heal With Heer - Healing Courses",
+  "description": "A premium Healing & Certification Programs catalogue and course directory for Heal With Heer, featuring interactive search, filters, course details, enrollment modal, and admin panel management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
